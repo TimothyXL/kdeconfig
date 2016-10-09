@@ -1,0 +1,3 @@
+[submodule "papirus-icon-theme-kde"]
+	path = papirus-icon-theme-kde
+	url = https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde.git
