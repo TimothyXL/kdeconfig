@@ -1,0 +1,2 @@
+# kdeconfig
+KDE config files
